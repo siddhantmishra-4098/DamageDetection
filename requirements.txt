@@ -1,5 +1,7 @@
-pathlib
-Pillow
 streamlit
-opencv-python
 ultralytics
+opencv-python-headless
+numpy
+Pillow
+torch
+torchvision
